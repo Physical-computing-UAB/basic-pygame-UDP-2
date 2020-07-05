@@ -1,0 +1,4 @@
+TODO > make the UDP socket non-Blocking
+1 Connection
+1 Player
+Server runing together with the game

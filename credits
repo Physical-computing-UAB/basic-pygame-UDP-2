@@ -1,0 +1,23 @@
+Python Online Multiplayer Game Development Tutorial
+https://www.youtube.com/watch?v=McoDjOCb2Zo
+
+Working with UDP Sockets
+https://www.studytonight.com/network-programming-in-python/working-with-udp-sockets
+
+Understanding Non Blocking I/O with Python — Part 1
+https://medium.com/vaidikkapoor/understanding-non-blocking-i-o-with-python-part-1-ec31a2e2db9b
+
+Best way to convert string to bytes in Python 3?
+https://stackoverflow.com/questions/7585435/best-way-to-convert-string-to-bytes-in-python-3
+
+Python 3.4, socket.error deprecated, new equivalent?
+https://stackoverflow.com/questions/31964722/python-3-4-socket-error-deprecated-new-equivalent
+
+What does the “yield” keyword do?
+https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do
+
+Asynchronous programming. Blocking I/O and non-blocking I/O
+https://luminousmen.com/post/asynchronous-programming-blocking-and-non-blocking
+
+socket.error: [Errno 48] Address already in use
+https://stackoverflow.com/questions/19071512/socket-error-errno-48-address-already-in-use
